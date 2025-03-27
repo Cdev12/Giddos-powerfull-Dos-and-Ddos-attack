@@ -1,4 +1,5 @@
 **Open Source Software Installation and Requirements Guide**
+
 Introduction
 This software is open source, meaning anyone can download, modify, and enhance it according to their needs. However, it is essential to follow the correct installation steps to ensure optimal functionality and to prevent potential issues during setup.
 
