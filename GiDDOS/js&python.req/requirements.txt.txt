@@ -1,0 +1,15 @@
+requests
+http.client
+urllib
+socket
+aiohttp
+requests-async
+pyshark
+paramiko
+scapy
+pyopenssl
+twisted
+beautifulsoup4
+lxml
+mitmproxy
+pysocks
