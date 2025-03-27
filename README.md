@@ -27,6 +27,7 @@ Download and install Python from python.org/downloads, if you don't have it inst
 Open the terminal or command prompt and run the following command to install the dependencies:
 
 pip install -r requirements.txt
+-------------------------------------------------
 Install JavaScript Functional Files (jsFunctionalities)
 These JavaScript files are crucial for the proper execution of the program, as they handle requests and network connections.
 
